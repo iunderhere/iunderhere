@@ -1,4 +1,4 @@
-<h1 "align=center">SUGENG RAWUH GENG 😁</h1>
+<h1 "align=center">SUGENG RAWUH GENG</h1>
 
 <img src="https://telegra.ph/file/ecd88f989fe4faea50b13.png">
 
