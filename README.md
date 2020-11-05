@@ -1,6 +1,6 @@
-<h1 "align=center">SUGENG RAWUH GENG</h1>
+<h1 "align=center">SUGENG RAWUH GENG!!</h1>
 
-<img src="https://telegra.ph/file/ecd88f989fe4faea50b13.png">
+<img src="https://telegra.ph/file/45fd30a419fe1c3b81987.jpg">
 
 <a href="https://www.youtube.com/runggawe">
   <img align="right" alt="Yutubku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
