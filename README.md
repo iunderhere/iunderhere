@@ -1,11 +1,11 @@
-<h1 "align=center">SUGENG RAWUH KANCA-KANCA</h1>
+<h1 "align=center">SUGENG RAWUH ING GITHUBKU</h1>
 
 <img src="https://telegra.ph/file/924e28795cc81ee99cdf7.jpg">
 
-<a href="javascript:alert(404)">
+<a href="jhttps://www.youtube.com/runggawe">
   <img align="right" alt="Yutubku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="javascript:alert(404)">
+<a href="https://pinterest.com/runggawe">
   <img align="right" alt="Pinterestku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
 </a>
 <a href="https://t.me/iunderhere">
