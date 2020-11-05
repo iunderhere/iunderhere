@@ -1,9 +1,25 @@
-<h2 "align=center">Hi, Sugeng rawuh 👋</h2>
+<h1 "align=center">SUGENG RAWUH!</h1>
 
 <img src="https://telegra.ph/file/924e28795cc81ee99cdf7.jpg">
 
-<h3 align="center"><b>Harta Tahta Aa 😂</b></h3><br>
-
+<a href="javascript:alert(404)">
+  <img align="right" alt="Yutubku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="javascript:alert(404)">
+  <img align="right" alt="Pinterestku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />
+</a>
+<a href="https://t.me/iunderhere">
+  <img align="left" alt="Telegramku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/runggawe">
+  <img align="left" alt="Twitterku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/runggawe">
+  <img align="left" alt="Instagramku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/runggawe">
+  <img align="right" alt="Facebooku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <br>
 <br><p align="center"><a href="https://github.com/iunderhere"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Diunderhere&longCache=true"></a></p>
 <p align="center"><a href="https://github.com/iunderhere"><img src="https://github-readme-stats.vercel.app/api?username=iunderhere&show_icons=true&theme=radical"></a></p>
@@ -25,12 +41,7 @@ class Meta(type):
         new_cls = super().__new__(cls, name, bases, attrs)
         new_cls = dataclass(new_cls)
         return new_cls
-
-
-class Stack(metaclass=Meta):
-    languages   = ("Python", "Bash")
-    ongoing     = ("C")
-
+        
 
 print("A little more about me")
 
@@ -38,7 +49,7 @@ iunderhere = {
     'pronouns': 'he' or 'him' or 'his',
     'fullname': 'Ｒａｖｉｔａｍａ 凉',
     'nationality': ['Indonesia', 'ID'],
-    'location': '📍Central Java',
+    'location': 'Central Java',
     'contact': {
         'email': 'contact@gojek.com',
         'website': 'www.warline.my.id',
@@ -46,9 +57,9 @@ iunderhere = {
     'about': [
         '16 y.o' ,
         'A student',
-        'A fan of python',
+        'A fan of Ambiiyah',
         'I\'m considering myself as a runner. (even tho rarely do it) xd',
-        'Like girl and money',
+        'Love girl and money',
         'Human.',
         'a misleading virtual world'
     ],
