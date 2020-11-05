@@ -1,4 +1,4 @@
-<h1 "align=center">SUGENG RAWUH RENCANG RENCANG</h1>
+<h1 "align=center">SUGENG RAWUH KANCA-KANCA</h1>
 
 <img src="https://telegra.ph/file/924e28795cc81ee99cdf7.jpg">
 
