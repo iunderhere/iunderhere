@@ -1,8 +1,8 @@
-<h1 "align=center">SUGENG RAWUH ING GITHUBKU</h1>
+<h1 "align=center">SUGENG RAWUH GENG 😁</h1>
 
-<img src="https://telegra.ph/file/924e28795cc81ee99cdf7.jpg">
+<img src="https://telegra.ph/file/ecd88f989fe4faea50b13.png">
 
-<a href="jhttps://www.youtube.com/runggawe">
+<a href="https://www.youtube.com/runggawe">
   <img align="right" alt="Yutubku" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://pinterest.com/runggawe">
