@@ -1,6 +1,6 @@
-## Hi there <img src="https://github.com/iunderhere/iunderhere/master/assets/wave1.gif" width="30" height="30">
+## Hi there <img src="https://raw.githubusercontent.com/iunderhere/iunderhere/main/assets/wave1.gif" width="30" height="30">
 ___
-<img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave2.gif" width="120" height="120" align="right">
+<img src="https://raw.githubusercontent.com/iunderhere/iunderhere/main/assets/wave1.gif" width="120" height="120" align="right">
 
 <a href="https://t.me/iunderhere"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iunderhere)
