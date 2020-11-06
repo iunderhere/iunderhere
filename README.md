@@ -8,9 +8,9 @@ ___
 
 ## **About Me**
 
-- 🌱 I'm Ravitama P.A
+- 🌱 I'm Nub+Kang clone!
 - 🎂 I'm 16y.o 
-- 😅 I'm Love money and girl
+- 😅 I'm Iri omong rasah meneng menengan, wagu reti ra?
 ----
 **🖥Profile overview:**
 
