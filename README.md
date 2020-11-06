@@ -14,6 +14,6 @@ ___
 ----
 **🖥Profile overview:**
 
-<a href="https://github.com/iunderhere/PenakMaido "> <img src="https://github-readme-stats.vercel.app/api?username=iunderhere&show_icons=true&theme=blue-green" /></a>
-<a href="https://github.com/iunderhere"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iunderhere&layout=compact&theme=blue-green" /></a>
+<a href="https://github.com/iunderhere/PenakMaido "> <img src="https://github-readme-stats.vercel.app/api?username=iunderhere&show_icons=true&theme=red-green" /></a>
+<a href="https://github.com/iunderhere"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iunderhere&layout=compact&theme=red-green" /></a>
 ----
