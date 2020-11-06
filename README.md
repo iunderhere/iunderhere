@@ -10,7 +10,7 @@ ___
 
 - 🌱 I'm Nub+Kang clone!
 - 🎂 16y.o 
-- 😅 Bio: Iri omong rasah meneng menengan, wagu reti ra?
+- 😔 Bio: Iri omong rasah meneng menengan, wagu reti ra?
 ----
 **🖥Profile overview:**
 
