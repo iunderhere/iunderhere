@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/iunderhere/iunderhere/main/assets/wave1.gif" width="30" height="30">
+## Sugeng rawuh <img src="https://raw.githubusercontent.com/iunderhere/iunderhere/main/assets/wave1.gif" width="30" height="30">
 ___
 <img src="https://telegra.ph/file/4e8c57541f52bc04527fc.jpg" width="120" height="120" align="right">
 
